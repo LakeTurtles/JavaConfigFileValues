@@ -11,8 +11,8 @@ import org.springframework.context.annotation.Profile;
 import java.util.ArrayList;
 
 @org.springframework.context.annotation.Configuration
-@Profile("developerGroup66")
-public class Configuration {
+@Profile("developerGroup88")
+public class ConfigurationB {
 
 
     @Value("${superuser.first.name}")
